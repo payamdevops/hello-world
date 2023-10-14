@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     
-    <h4>Salam Payam</h4>
+    <h2>Salam Payam</h2>
     <h1>New user Register for Payam Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
