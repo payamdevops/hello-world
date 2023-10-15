@@ -1,11 +1,15 @@
 <form action="action_page.php">
   <div class="container">
     
-    <h2>Salam Payam</h2>
+    <h1>Salam Payam</h2>
     <h1>New user Register for Payam Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
+    <label for="server"><b>Enter server Name</b></label>
+    <input type="text" placeholder="Enter Full server Name" name="server" id="server" required>
+    <br>
+
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
